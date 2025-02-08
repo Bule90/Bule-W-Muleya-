@@ -1,6 +1,7 @@
 <Akonaho Trading Contractors>
 
-Akonaho Trading Contractors 
+Akonaho Trading Contractors
+
 Contact: 0792120870
 
 Welcome to Akonaho Trading Contractors, we are a thatch roofing company that is situated in Limpopo at Gumbu Village. 
