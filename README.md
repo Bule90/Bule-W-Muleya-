@@ -1,7 +1,7 @@
 <Akonaho Trading Contractors>
 
 <!--
-  <<< Welcome to Akonaho Trading Contractors >>>
+  <<< Welcome to Akonaho Trading Contractors, we are a thatch roofing company that is situated in Limpopo at Gumbu Village. We offer all thatch roofing services ie thatch installation, thatch repairs, lapas installation and repairs, overthatching, rethatching, thatch brushing>>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
